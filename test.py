@@ -85,7 +85,7 @@ print(f'El total de la compra es de: {total_pedido}')
 
 ''' 
 
-Pendientes:
+Extras:
 
 1. Eliminar un producto ya seleccionado
 2. Crear un login para ingresar al menu 
